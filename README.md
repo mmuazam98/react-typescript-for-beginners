@@ -9,7 +9,7 @@
 
 Once clone, you can run:
 
-### `yarn add`
+### `yarn`
 
 Installs all the dependencies.
 
